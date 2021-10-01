@@ -1,4 +1,4 @@
-# Programming-for-Everybody-Chapter-2-Exercises-Solved
+# Programming-for-Everybody-Chapter-Exercises-Solved
 Solutions for Chapters  Exercises 
 #Excercise 2
 nam = input("Enter your name: ")
